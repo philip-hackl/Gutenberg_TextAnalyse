@@ -17,7 +17,6 @@ Dieses Projekt bietet eine interaktive Streamlit-Anwendung zur Analyse von Texte
 7. [Contributing](#contributing)
 
 
-
 ## Installation
 
 Stelle sicher, dass du die benötigten Python-Pakete installiert hast. Du kannst diese mit `pip` installieren:
@@ -33,13 +32,13 @@ pip install streamlit pandas requests beautifulsoup4 scikit-learn
 1. **Clone das Repository:**
 
     ```bash
-    git clone https://github.com/philip-hackl/TicTacToe-Game.git
+    git clone https://github.com/philip-hackl/Gutenberg_TextAnalyse.git
     ```
 
 2. **Navigiere in das Projektverzeichnis:**
 
     ```bash
-    cd TicTacToe-Game
+    cd Gutenberg_TextAnalyse
     ```
 
 3. **Starte die Streamlit-Anwendung:**
